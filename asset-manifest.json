@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/trading/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/trading/static/js/main.bb24a74f.chunk.js",
+    "main.js.map": "/trading/static/js/main.bb24a74f.chunk.js.map",
+    "runtime-main.js": "/trading/static/js/runtime-main.3cb8aaf9.js",
+    "runtime-main.js.map": "/trading/static/js/runtime-main.3cb8aaf9.js.map",
+    "static/js/2.b38ff09e.chunk.js": "/trading/static/js/2.b38ff09e.chunk.js",
+    "static/js/2.b38ff09e.chunk.js.map": "/trading/static/js/2.b38ff09e.chunk.js.map",
+    "static/js/3.a631991a.chunk.js": "/trading/static/js/3.a631991a.chunk.js",
+    "static/js/3.a631991a.chunk.js.map": "/trading/static/js/3.a631991a.chunk.js.map",
+    "index.html": "/trading/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/trading/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.b38ff09e.chunk.js.LICENSE.txt": "/trading/static/js/2.b38ff09e.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/trading/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3cb8aaf9.js",
+    "static/js/2.b38ff09e.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.bb24a74f.chunk.js"
+  ]
+}
